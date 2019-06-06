@@ -1,3 +1,5 @@
+# THE CODE IN THIS REPO ISN'T UPDATED, SINCE NEW VERSIONS ARE PUSHED TO MAGISK MODULES REPOSITORY. CHECK [HERE](https://github.com/Magisk-Modules-Repo/ARCore_enabler) THE NEW REPO.
+
 # ARCore/Playground Patcher
 A Magisk module that enables ARCore support for device that haven't got official support and allows you to install apps with ARCore support via Play Store.
 
